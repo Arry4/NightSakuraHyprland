@@ -13,19 +13,19 @@ wofi config files go to:
 What I remember installing :)
 
 
-firefox - rice is configured to work with firefox and need changes in hyprland and waybar config files if other browser is used
-hypridle
-hyprlock
-hyprpolkitagent
-hyprsunset
-kitty
-pavucontol
-swaybg
-swaync
-thunar
-ttf-jetbrains-mono-nerd
-waybar
-wofi
+firefox - rice is configured to work with firefox and need changes in hyprland and waybar config files if other browser is used,
+hypridle,
+hyprlock,
+hyprpolkitagent,
+hyprsunset,
+kitty,
+pavucontol,
+swaybg,
+swaync,
+thunar,
+ttf-jetbrains-mono-nerd,
+waybar,
+wofi,
 
 To do after installation:
 Change input in input.conf
