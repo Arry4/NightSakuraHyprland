@@ -19,7 +19,9 @@ fastfetch config files go to:
 etc.
 
 What I remember installing :)  
-  
+
+cava  
+fastfetch  
 firefox - rice is configured to work with firefox and need changes in hyprland and waybar config files if other browser is used  
 hypridle  
 hyprlock  
@@ -33,6 +35,7 @@ thunar
 ttf-jetbrains-mono-nerd  
 waybar  
 wofi  
+
 
 To do after installation:
 
