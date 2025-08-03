@@ -9,6 +9,9 @@ Waybar config files go to:
 wofi config files go to:
 ~/.config/wofi
 
+fastfetch config files go to:
+~/.config/fastfetch
+
 
 What I remember installing :)  
   
